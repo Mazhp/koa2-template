@@ -8,6 +8,7 @@ node7.6+ 、 mongo
 
 ### 结构
 
+```
 ├── controller // 控制器
 ├── errorPage // 错误页面
 ├── models // 数据模型，同数据库的表结构
@@ -16,6 +17,7 @@ node7.6+ 、 mongo
 ├── service // 数据库操作类
 ├── app.js // 启动项
 ├── router.js // router 控制器
+```
 
 ### 运行步骤
 
